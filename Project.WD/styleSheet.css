@@ -1,0 +1,270 @@
+
+
+body {
+	background-color: ghostwhite;
+	
+}
+
+P {
+	margin: 8px;
+	padding: 1%;
+	font-family: Verdana;
+	line-height: 2;
+	
+}
+
+@media screen and (max-width:700px) {
+
+
+
+ul#navlist {
+	
+	align: center;
+	margin: 5px;
+}
+
+ul#navlist li {
+	margin: auto;
+	display: block; 
+	float: left; 
+	width: 100%;
+
+
+}
+ul#navlist a {
+	text-decoration: none;
+	display: block; 
+	width: 100%; 
+	border: 2px solid lightgray; 
+	padding: 3px;  
+	background-color: whitesmoke;
+	color: #000;
+	margin: auto;
+	text-align: center;
+	font-family: Verdana;
+}
+
+}
+
+@media screen and (min-width: 701px) {
+
+ul#navlist {
+	margin: 10px 0px 0px 0px;
+	padding: 2px;
+	list-style-type: none;
+	align: center;
+}
+
+ul#navlist li {
+	margin-left: 30px;
+	margin-bottom: 20px;
+	display: inline; 
+	float: left; 
+
+
+}
+ul#navlist a {
+	text-decoration: none;
+	display: block; 
+	width: 150px; 
+	border: 2px solid lightgray; 
+	padding: 15px;
+	padding-left: 2px;
+	padding-right: 2px;  
+	background-color: whitesmoke;
+	color: #000;
+	margin-top: 5px;
+	text-align: center;
+	font-family: Verdana;
+
+}
+}
+
+.snav {
+	font-size: 95%;
+}
+
+.current{
+
+	font-weight: bold; 
+	font-size: 100%;
+	
+} 
+
+div.footnote {
+	clear: both;
+}
+
+img {
+	width: 38%;
+	min-width: 300px;
+	height: auto;
+	float: right;
+	margin-right: 10px;
+}
+Img.drivers {
+	margin: 30px; 
+	width: 50%; 
+	min-width: 400px;
+	height: auto; 
+	float: right;
+}
+
+
+
+h1 {
+	color: black;
+	align: center;
+	text-align: center;
+	font-family: Verdana;
+}
+
+h2 {
+	color: dimgray;
+	text-align: center;
+	padding: 1em;
+	font-family: Verdana;
+	margin-top: 3em;
+}
+
+h3 {
+	color: dark gray;
+	text-align: center;
+	padding: 1em;
+	font-size: 20px;
+	font-family: Verdana;
+}
+
+Ul {
+	margin: 1em;
+
+}
+
+
+Table,th,td {
+	border-collapse: collapse;
+	padding: 5px;
+	font-family: Verdana;
+	font-size: 100%;
+
+
+}
+.teams {
+	float: left;
+	font-family: Verdana;
+}
+
+.lineup {
+	width: 50%;
+	font-family: Verdana;
+	padding: 10px;
+	text-align: center;
+
+} 
+
+th {
+	font-size: 100%;
+}
+
+.haas {
+	font-size: 85%;
+
+}
+
+.rb {
+	background-color:blue;
+	border-color: black;
+	color: white;
+}
+
+.f {
+	background-color:red;
+	border-color: black;
+	color: white;
+}
+.m {
+	background-color:turquoise;
+	border-color: black;
+	color: black;
+}
+.a {
+	background-color:royalblue;
+	border-color: black;
+	color: white;
+}
+
+.mc {
+	background-color:orange;
+	border-color: black;
+	color: black;
+}
+
+.h {
+	background-color:white;
+	border-color: black;
+	color: Red;
+}
+
+.at {
+	background-color:midnightblue;
+	border-color: black;
+	color: white;
+}
+.am {
+	background-color:teal;
+	border-color: black;
+	color: white;
+}
+.w {
+	background-color:lightskyblue;
+	border-color: black;
+	color: black;
+}
+.ar {
+	background-color:maroon;
+	border-color: black;
+	color: white;
+}
+
+
+
+Table.drivers {
+	border: 3px solid black;
+	float: left;
+	margin-top:10px;
+	margin-left: 13%;
+	padding: 1px;
+
+} 
+
+Table.constructors {
+	border: 3px solid black;
+	float: right;
+	margin-top: 10px;
+	margin-right: 25%;
+}
+
+
+
+
+article {
+	color: black; 
+	font-family: Arial, sans-serif;
+	margin: auto; 
+	margin-top: 3%;
+	width: 70%;
+	height: auto;
+	padding: 0px;
+	background-color: white;
+	overflow: auto;
+	
+
+}
+
+
+
+
+
+
+
+
